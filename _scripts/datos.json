@@ -1,0 +1,13 @@
+{
+  "sitio": "Estudio Jurídico Ambos & Asociados",
+  "titulo_corto": "Estudio Jurídico Ambos & Asociados",
+  "responsable": "Estudio Jurídico Ambos & Asociados",
+  "domicilio": "Av. Luro 2681, 3° B, 7600 Mar del Plata, Provincia de Buenos Aires",
+  "email": "estudioambos@gmail.com",
+  "telefono": "(0223) 494-6429",
+  "persona": "nosotros",
+  "formulario": true,
+  "btn": "btn-vino",
+  "theme_color": "#160709",
+  "css": {"fondo": "var(--bg)", "fondo_hero": "var(--bg-2)", "texto_hero": "var(--head)", "acento": "var(--arena)", "muted": "var(--muted)", "titulos": "var(--f-head)"}
+}
